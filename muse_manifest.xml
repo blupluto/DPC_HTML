@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DPC.com" resolutions="1x" timestamp="1687763654406">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="____1.css" crc="4092842871" ref="니즈환기"/>
+    <file name="nomq_____1.css" crc="481013058" ref="니즈환기"/>
+    <file name="__.css" crc="372325253" ref="화법"/>
+    <file name="nomq___.css" crc="533239616" ref="화법"/>
+    <file name="_____.css" crc="3835445264" ref="가입안내서"/>
+    <file name="nomq______.css" crc="4228117049" ref="가입안내서"/>
+    <file name="____2.css" crc="3965738007" ref="전단광고"/>
+    <file name="nomq_____2.css" crc="400576718" ref="전단광고"/>
+    <file name="index.css" crc="69110921" ref="index"/>
+    <file name="nomq_index.css" crc="303362647" ref="index"/>
+    <file name="____.css" crc="25848136" ref="요약자료"/>
+    <file name="nomq_____.css" crc="4108499422" ref="요약자료"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="museutils.js" crc="3939489907" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="whatinput.js" crc="86476730" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="require.js" crc="4177726516" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+  </folder>
+  <folder name="images">
+    <file name="u1268-6.png" crc="3860442272" ref="index"/>
+    <file name="u1268-62.png" crc="4273820994" ref="index"/>
+    <file name="u1268-63.png" crc="4062057773" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:요약자료:니즈환기:전단광고:화법:가입안내서"/>
+    <file name="u1258-6.png" crc="4271866896" ref="요약자료"/>
+    <file name="u1258-62.png" crc="251818399" ref="요약자료"/>
+    <file name="u1258-63.png" crc="4109840836" ref="요약자료"/>
+    <file name="u1248-6.png" crc="4271866896" ref="니즈환기"/>
+    <file name="u1248-62.png" crc="251818399" ref="니즈환기"/>
+    <file name="u1248-63.png" crc="76151058" ref="니즈환기"/>
+    <file name="u1238-6.png" crc="3808125639" ref="전단광고"/>
+    <file name="u1238-62.png" crc="251818399" ref="전단광고"/>
+    <file name="u1238-63.png" crc="238460399" ref="전단광고"/>
+    <file name="u260-6.png" crc="3949654479" ref="화법"/>
+    <file name="u260-62.png" crc="4041848565" ref="화법"/>
+    <file name="u260-63.png" crc="422796917" ref="화법"/>
+    <file name="u1755-6.png" crc="4271866896" ref="가입안내서"/>
+    <file name="u1755-62.png" crc="251818399" ref="가입안내서"/>
+    <file name="u1755-63.png" crc="4109840836" ref="가입안내서"/>
+  </folder>
+  <file name="index.html" crc="4025238572" seo="true" mt="1687763369088" redirect="true"/>
+  <file name="요약자료.html" crc="4133924417" seo="true" mt="1687763369085" redirect="true"/>
+  <file name="니즈환기.html" crc="4102448144" seo="true" mt="1687763369086" redirect="true"/>
+  <file name="전단광고.html" crc="197814736" seo="true" mt="1687763369086" redirect="true"/>
+  <file name="화법.html" crc="3946529216" seo="true" mt="1687763369087" redirect="true"/>
+  <file name="가입안내서.html" crc="464873758" seo="true" mt="1687763369089" redirect="true"/>
+</manifest>
