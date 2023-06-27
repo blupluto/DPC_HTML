@@ -12,10 +12,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://DPC.com/images/%EC%97%B0%EA%B8%88%EC%A0%84%ED%99%98%ED%8A%B9%EC%95%BD_%EB%8F%84%EC%8B%9D.png</image:loc>
+      <image:loc>http://DPC.com/images/chooga.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://DPC.com/images/%EC%B6%94%EA%B0%80%EB%82%A9%EC%9E%85_%EC%A4%91%EB%8F%84%EC%9D%B8%EC%B6%9C.png</image:loc>
+      <image:loc>http://DPC.com/images/pension_a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/sa_yun_sunjigup.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/haejihwangup.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/janggiyuji.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/chaejungplan.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/chaejungplan-crop-u3088.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/chaejungplan-crop-u30882.jpg</image:loc>
     </image:image>
   </url>
   <url>
