@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DPC.com" resolutions="1x" timestamp="1687823987181">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="69110921" ref="index"/>
+    <file name="nomq_index.css" crc="303362647" ref="index"/>
+    <file name="needs.css" crc="4092842871" ref="needs"/>
+    <file name="nomq_needs.css" crc="481013058" ref="needs"/>
+    <file name="rp.css" crc="372325253" ref="rp"/>
+    <file name="nomq_rp.css" crc="533239616" ref="rp"/>
+    <file name="gaip.css" crc="3835445264" ref="gaip"/>
+    <file name="nomq_gaip.css" crc="4228117049" ref="gaip"/>
+    <file name="leaflet.css" crc="3965738007" ref="leaflet"/>
+    <file name="nomq_leaflet.css" crc="400576718" ref="leaflet"/>
+    <file name="point.css" crc="25848136" ref="point"/>
+    <file name="nomq_point.css" crc="4108499422" ref="point"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="museutils.js" crc="3939489907" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="whatinput.js" crc="86476730" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="require.js" crc="4177726516" ref="index:point:needs:leaflet:rp:gaip"/>
+  </folder>
+  <folder name="images">
+    <file name="u1268-6.png" crc="3860442272" ref="index"/>
+    <file name="u1268-62.png" crc="4273820994" ref="index"/>
+    <file name="u1268-63.png" crc="4062057773" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:point:needs:leaflet:rp:gaip"/>
+    <file name="u1258-6.png" crc="4271866896" ref="point"/>
+    <file name="u1258-62.png" crc="251818399" ref="point"/>
+    <file name="u1258-63.png" crc="4109840836" ref="point"/>
+    <file name="u1248-6.png" crc="4271866896" ref="needs"/>
+    <file name="u1248-62.png" crc="251818399" ref="needs"/>
+    <file name="u1248-63.png" crc="76151058" ref="needs"/>
+    <file name="u1238-6.png" crc="3808125639" ref="leaflet"/>
+    <file name="u1238-62.png" crc="251818399" ref="leaflet"/>
+    <file name="u1238-63.png" crc="238460399" ref="leaflet"/>
+    <file name="u260-6.png" crc="3949654479" ref="rp"/>
+    <file name="u260-62.png" crc="4041848565" ref="rp"/>
+    <file name="u260-63.png" crc="422796917" ref="rp"/>
+    <file name="u1755-6.png" crc="4271866896" ref="gaip"/>
+    <file name="u1755-62.png" crc="251818399" ref="gaip"/>
+    <file name="u1755-63.png" crc="4109840836" ref="gaip"/>
+  </folder>
+  <file name="index.html" crc="3943215176" seo="true" mt="1687769509758" redirect="true"/>
+  <file name="point.html" crc="139769184" seo="true" mt="1687769656497" redirect="true"/>
+  <file name="needs.html" crc="391318343" seo="true" mt="1687769509760" redirect="true"/>
+  <file name="leaflet.html" crc="184921331" seo="true" mt="1687769509760" redirect="true"/>
+  <file name="rp.html" crc="409497402" seo="true" mt="1687769509761" redirect="true"/>
+  <file name="gaip.html" crc="3788684682" seo="true" mt="1687769509758" redirect="true"/>
+</manifest>
