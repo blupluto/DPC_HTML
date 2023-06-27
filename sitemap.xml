@@ -29,12 +29,6 @@
     <image:image>
       <image:loc>http://DPC.com/images/chaejungplan.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://DPC.com/images/chaejungplan-crop-u3088.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://DPC.com/images/chaejungplan-crop-u30882.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://DPC.com/needs.html</loc>

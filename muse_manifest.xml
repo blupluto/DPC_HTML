@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DPC.com" resolutions="1x" timestamp="1687843199024">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DPC.com" resolutions="1x" timestamp="1687845399798">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="63461495" ref="index"/>
@@ -11,8 +11,8 @@
     <file name="nomq_gaip.css" crc="4228117049" ref="gaip"/>
     <file name="leaflet.css" crc="3965738007" ref="leaflet"/>
     <file name="nomq_leaflet.css" crc="400576718" ref="leaflet"/>
-    <file name="point.css" crc="3935301434" ref="point"/>
-    <file name="nomq_point.css" crc="4074317984" ref="point"/>
+    <file name="point.css" crc="4184566972" ref="point"/>
+    <file name="nomq_point.css" crc="286995940" ref="point"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:point:needs:leaflet:rp:gaip"/>
@@ -47,30 +47,30 @@
     <file name="u1755-6.png" crc="4271866896" ref="gaip"/>
     <file name="u1755-62.png" crc="251818399" ref="gaip"/>
     <file name="u1755-63.png" crc="4109840836" ref="gaip"/>
-    <file name="u2480-8.png" crc="489250902" ref="point"/>
-    <file name="u2484-8.png" crc="213071523" ref="point"/>
-    <file name="u2467-8.png" crc="3845907102" ref="point"/>
+    <file name="u2480-8.png" crc="3790859335" ref="point"/>
+    <file name="u2484-8.png" crc="218921828" ref="point"/>
+    <file name="u2467-8.png" crc="4245418856" ref="point"/>
     <file name="u2695-10.png" crc="28486219" ref="point"/>
-    <file name="u2688-6.png" crc="166632471" ref="point"/>
-    <file name="u2645-6.png" crc="22810203" ref="point"/>
-    <file name="u2640-6.png" crc="3892816564" ref="point"/>
-    <file name="u2480-82.png" crc="489250902" ref="point"/>
-    <file name="u2484-82.png" crc="4234292826" ref="point"/>
-    <file name="u2467-82.png" crc="3845907102" ref="point"/>
+    <file name="u2688-6.png" crc="431039962" ref="point"/>
+    <file name="u2645-6.png" crc="11345961" ref="point"/>
+    <file name="u2640-6.png" crc="466309940" ref="point"/>
+    <file name="u2480-82.png" crc="3790859335" ref="point"/>
+    <file name="u2484-82.png" crc="218921828" ref="point"/>
+    <file name="u2467-82.png" crc="4245418856" ref="point"/>
     <file name="u2695-102.png" crc="28486219" ref="point"/>
-    <file name="u2688-62.png" crc="166632471" ref="point"/>
-    <file name="u2645-62.png" crc="22810203" ref="point"/>
-    <file name="u2640-62.png" crc="3892816564" ref="point"/>
-    <file name="u2480-83.png" crc="489250902" ref="point"/>
-    <file name="u2484-83.png" crc="4234292826" ref="point"/>
-    <file name="u2467-83.png" crc="3845907102" ref="point"/>
-    <file name="u2695-103.png" crc="28486219" ref="point"/>
-    <file name="u2688-63.png" crc="166632471" ref="point"/>
-    <file name="u2645-63.png" crc="22810203" ref="point"/>
-    <file name="u2640-63.png" crc="3892816564" ref="point"/>
-    <file name="u3042-10.png" crc="3922269832" ref="point"/>
-    <file name="u3042-102.png" crc="3928835349" ref="point"/>
-    <file name="u3042-103.png" crc="4037896427" ref="point"/>
+    <file name="u2688-62.png" crc="456471530" ref="point"/>
+    <file name="u2645-62.png" crc="11345961" ref="point"/>
+    <file name="u2640-62.png" crc="3838246985" ref="point"/>
+    <file name="u2480-83.png" crc="3790859335" ref="point"/>
+    <file name="u2484-83.png" crc="61738710" ref="point"/>
+    <file name="u2467-83.png" crc="291394414" ref="point"/>
+    <file name="u2695-103.png" crc="344000021" ref="point"/>
+    <file name="u2688-63.png" crc="270922324" ref="point"/>
+    <file name="u2645-63.png" crc="11345961" ref="point"/>
+    <file name="u2640-63.png" crc="180628970" ref="point"/>
+    <file name="u3042-10.png" crc="87295947" ref="point"/>
+    <file name="u3042-102.png" crc="287623356" ref="point"/>
+    <file name="u3042-103.png" crc="184368844" ref="point"/>
     <file name="chooga.png" crc="384901174" seo="true" ref="point">
       <caption webpage="point" alt=""/>
       <caption webpage="point" alt=""/>
@@ -98,16 +98,12 @@
     </file>
     <file name="chaejungplan.jpg" crc="4019048647" seo="true" ref="point">
       <caption webpage="point" alt=""/>
-    </file>
-    <file name="chaejungplan-crop-u3088.jpg" crc="462917954" seo="true" ref="point">
       <caption webpage="point" alt=""/>
-    </file>
-    <file name="chaejungplan-crop-u30882.jpg" crc="4187429727" seo="true" ref="point">
       <caption webpage="point" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="65525040" seo="true" mt="1687830824989" redirect="true"/>
-  <file name="point.html" crc="3935458663" seo="true" mt="1687843134834" redirect="true"/>
+  <file name="point.html" crc="398924201" seo="true" mt="1687845380988" redirect="true"/>
   <file name="needs.html" crc="391318343" seo="true" mt="1687769509760" redirect="true"/>
   <file name="leaflet.html" crc="184921331" seo="true" mt="1687769509760" redirect="true"/>
   <file name="rp.html" crc="409497402" seo="true" mt="1687769509761" redirect="true"/>
