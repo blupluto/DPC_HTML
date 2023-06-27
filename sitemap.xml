@@ -11,6 +11,12 @@
     <lastmod>2023-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://DPC.com/images/%EC%97%B0%EA%B8%88%EC%A0%84%ED%99%98%ED%8A%B9%EC%95%BD_%EB%8F%84%EC%8B%9D.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DPC.com/images/%EC%B6%94%EA%B0%80%EB%82%A9%EC%9E%85_%EC%A4%91%EB%8F%84%EC%9D%B8%EC%B6%9C.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://DPC.com/needs.html</loc>
